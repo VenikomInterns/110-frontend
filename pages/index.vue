@@ -62,6 +62,10 @@
 </template>
 
 <script>
+  // I don't like putting everything in one page and one file.
+  // This code looks so much complex 
+  // Why you always call JSON.parse(JSON.stringify()) hmmmm 
+  
 export default {
   name: 'IndexPage',
   data() {
